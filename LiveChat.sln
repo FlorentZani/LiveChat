@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveChat", "LiveChat\LiveChat.csproj", "{54A584E4-5BE6-4EC7-A4C7-E0C8A0EBD857}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiveChat", "LiveChat\LiveChat.csproj", "{54A584E4-5BE6-4EC7-A4C7-E0C8A0EBD857}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
